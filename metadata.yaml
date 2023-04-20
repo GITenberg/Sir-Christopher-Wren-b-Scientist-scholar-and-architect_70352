@@ -1,0 +1,34 @@
+_repo: Sir-Christopher-Wren-b-Scientist-scholar-and-architect_70352
+_version: 0.0.1
+alternative_title: 'Sir Christopher Wren :  Scientist, scholar & architect'
+creator:
+  author:
+    agent_name: Weaver, Lawrence
+    birthdate: 1876
+    deathdate: 1930
+    gutenberg_agent_id: '55721'
+    url: http://www.gutenberg.org/2009/agents/55721
+    wikipedia: https://en.wikipedia.org/wiki/Lawrence_Weaver
+description: ''
+gutenberg_issued: '2023-03-23'
+identifiers:
+  gutenberg: '70352'
+  lccn: '23011677'
+language: en
+pgterms:marc904: https://archive.org/details/b29930911/page/n7/mode/2up
+pgterms:marc905: 20200730142237weaver
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bOffices of "Country Life", Ltd., $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wren, Christopher, Sir, 1632-1723'
+- !lcsh 'Architects -- England -- Biography'
+- !lcc 'NA'
+- GITenberg
+title: 'Sir Christopher Wren : $b Scientist, scholar and architect'
+url: http://www.gutenberg.org/ebooks/70352
