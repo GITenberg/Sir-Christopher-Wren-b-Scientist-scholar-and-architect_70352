@@ -1,6 +1,9 @@
 _repo: Sir-Christopher-Wren-b-Scientist-scholar-and-architect_70352
 _version: 0.1.0
 alternative_title: 'Sir Christopher Wren :  Scientist, scholar & architect'
+covers:
+- cover_type: archival
+  image_path: 70352-h/images/cover.jpg
 creator:
   author:
     agent_name: Weaver, Lawrence
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55721
     wikipedia: https://en.wikipedia.org/wiki/Lawrence_Weaver
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70352#Sir-Christopher-Wren-b-Scientist-scholar-and-architect
 gutenberg_issued: '2023-03-23'
 identifiers:
   gutenberg: '70352'
